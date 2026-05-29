@@ -29,15 +29,15 @@ PROCESS_START_WAIT = 1.8
 TCP_TEST_TIMEOUT = 3.0
 START_PORT = 2080
 MAX_WORKERS = 10
-BATCH_SIZE = 200
+BATCH_SIZE = 500
 MAX_RUNTIME_SECONDS = 55 * 60          # 55 minutes
-RESET_AFTER_DAYS = 10                  # 10-day reset window
+RESET_AFTER_DAYS = 14                  # 14-day reset window
 
 HEADER_LINES = [
     "#profile-title: base64:TXkgdjJyYXkgTGl2ZSBDb2xsZWN0aW9u",
     "#profile-update-interval: 1",
     "#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531",
-    "#support-url: https://github.com/Abdulhossein/All-in-One/",
+    "#support-url: https://github.com/Raven-gits/All-in-One/",
     "#profile-web-page-url: https://raw.githubusercontent.com/Raven-gits/All-in-One/refs/heads/main/live_v2ray"
 ]
 
