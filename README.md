@@ -25,9 +25,9 @@ A GitHub Action triggers every **3 days** to update the config list. It works li
 1. Fetches all proxy configs from the source.
 2. Runs a fast TCP check to filter out dead servers immediately.
 3. Tests the remaining candidates with **Xray** to verify real connectivity.
-4. Appends up to **200 live configs** per run to `the final files`, then stops.
+4. Appends up to **~500 live configs** per run to `the final files`, then stops.
 5. Resumes from where it left off in the next scheduled run.
-6. When all configs have been tested (or every 10 days), the list **resets** – old configs are cleared and a fresh batch is created.
+6. When all configs have been tested (or every two weeks), the list **resets** – old configs are cleared and a fresh batch is created.
 
 This keeps the subscription link small, responsive, and always filled with working servers.
 
