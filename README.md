@@ -8,11 +8,12 @@ It runs on a schedule to keep the configs fresh and usable.
 Simply copy the subscription links below and paste it into your VPN client (like Hiddify, V2RayN, V2RayNG, Streisand, Fair VPN, etc.):
 
 ```
-https://raw.githubusercontent.com/Abdulhossein/All-in-One/refs/heads/main/v2rays
+https://raw.githubusercontent.com/Raven-gits/All-in-One/refs/heads/main/v2rays
 
 ```
 ```
-https://raw.githubusercontent.com/Abdulhossein/All-in-One/refs/heads/main/live_v2ray
+https://raw.githubusercontent.com/Raven-gits/All-in-One/refs/heads/main/live_v2ray
+
 ```
 
 That's it – your client will automatically fetch the latest working servers.
