@@ -21,7 +21,7 @@ from urllib3.util.retry import Retry
 # =========================
 OUTPUT_FILE = "live_v2ray"
 STATE_FILE = "state.json"
-SOURCE_URL = "https://raw.githubusercontent.com/Abdulhossein/All-in-One/main/v2rays"
+SOURCE_URL = "https://raw.githubusercontent.com/Raven-gits/All-in-One/refs/heads/main/v2rays"
 XRAY_BIN = os.path.join("xray-bin", "xray")
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 HTTP_TEST_TIMEOUT = 8
@@ -38,7 +38,7 @@ HEADER_LINES = [
     "#profile-update-interval: 1",
     "#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531",
     "#support-url: https://github.com/Abdulhossein/All-in-One/",
-    "#profile-web-page-url: https://github.com/Abdulhossein/All-in-One/edit/main/live_v2ray"
+    "#profile-web-page-url: https://raw.githubusercontent.com/Raven-gits/All-in-One/refs/heads/main/live_v2ray"
 ]
 
 VALID_SCHEMES = ("vmess://", "vless://", "trojan://", "ss://", "socks://")
