@@ -9,11 +9,9 @@ Simply copy the subscription links below and paste it into your VPN client (like
 
 ```
 https://raw.githubusercontent.com/Raven-gits/All-in-One/refs/heads/main/v2rays
-
 ```
 ```
 https://raw.githubusercontent.com/Raven-gits/All-in-One/refs/heads/main/live_v2ray
-
 ```
 
 That's it – your client will automatically fetch the latest working servers.
