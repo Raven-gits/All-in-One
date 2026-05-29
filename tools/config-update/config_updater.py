@@ -35,7 +35,7 @@ HEADER_LINES = [
     "#profile-update-interval: 1",
     "#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531",
     "#support-url: https://github.com/Abdulhossein/All-in-One/",
-    "#profile-web-page-url: https://github.com/Abdulhossein/All-in-One/edit/main/v2ray",
+    "#profile-web-page-url: https://raw.githubusercontent.com/Raven-gits/All-in-One/refs/heads/main/v2rays",
 ]
 
 # ----------------------------------------------------------------------
